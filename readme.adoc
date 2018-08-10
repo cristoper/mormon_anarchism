@@ -2,7 +2,7 @@
 
 A comprehensive collection of links to articles and websites abourt Mormon anarchism (originally hosted on the http://americancynic.net/[AmericanCynic weblog]).
 
-http://themormonworker.net/[The Mormon Worker] (https://web.archive.org/web/https://themormonworker.net/[in the Internet Archive])::
+http://themormonworker.net/[The Mormon Worker] (https://web.archive.org/web/20160321022140/https://themormonworker.net/[in the Internet Archive])::
     Online and print periodical. "`Promoting Mormonism, Anarchism, and Pacifism`"
     * Example articles:
         - https://web.archive.org/web/20160101201606/http://themormonworker.net/past-issues/archive/an-introduction-to-mormon-anarchism/["`An Introduction to Mormon Anarchism`"] by William Van Wagenen from Issue{nbsp}1.
@@ -29,7 +29,7 @@ Writings by and about Dyer D. Lum::
     * In http://wiki.libertarian-labyrinth.org/index.php?title=Mormon_Co-operation["`Mormon Co-operation,`"] (_Liberty_, July 3, 1886, #83), Lum responds to a sceptic about Mormon democracy and cooperation.
     * My own link:/log/2015/1/20/dyer_lum_on_the_civil_and_mormon_wars/["`Dyer Lum on the Civil and Mormon Wars`"] presents an overly simplified theory of the relationship between slavery, Mormon cooperatives, and capitalism with application to some interesting events in American history
 
-https://web.archive.org/web/http://www.sltrib.com/sltrib/opinion/51308137-82/mormon-book-poor-saints.html.csp[The case for Book of Mormon socialism]::
+https://web.archive.org/web/20180529235841/http://archive.sltrib.com/article.php?id=51308137&itype=CMSID[The case for Book of Mormon socialism]::
     An article in The Salt Lake Tribune by Troy Williams.
 
 Leland A Fetzer's https://web.archive.org/web/20160805192702/https://www.dialoguejournal.com/wp-content/uploads/2010/05/Dialogue_V06N01_15.pdf["`Tolstoy and Mormonism`" (_Dialogue_ 6, 1971: 3-29)]::
