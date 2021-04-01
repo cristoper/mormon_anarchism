@@ -52,12 +52,6 @@ http://eng.anarchopedia.org/Mormon_anarchism[Anarchopedia: Mormon anarchism]::
 http://groups.yahoo.com/group/lds-left/[LDS-LEFT Yahoo! group]::
     This inactive mailing list seems to be all that's left of the Mormons for Equality and Social Justice site. https://web.archive.org/web/20101028031006/http://www.mesj.org/indexpage.htm[An old index page] is available thanks to the Internet Archive.
 
-http://ldsanarchy.wordpress.com/[LDS Anarchy: Not Your Average Mormon Blog]::
-    "`The goal of this blog is to discuss the gamut of LDS doctrine and perspective. Also to be covered is the anarchic point of view, i.e., anarchism.`"
-    * The main contributor espouses anti-statism but is an advocate of https://web.archive.org/web/https://ldsanarchy.files.wordpress.com/2011/10/gemtam-ch-3-multispouse-update-1.pdf[tribalism], and there seems to be barely any anarchism in their writing.
-    * Many of the articles I sampled were long, rambling, and contained the occasional conspiracy theory (one of the contributors firmly believes the earth is hollow). The sidebar links to both right-wing and socialist anarchist websites. There are many contributors, so the quality can be expected to vary widely.
-    * https://web.archive.org/web/http://enoughwiththis.blogspot.com/2010/11/mormon-anarchists.html[Article critical of the ideas espoused by the LDS Anarchy blog]
-
 = Contributing
 
 If you find a dead link or know of a site that should be linked here, please either open an https://github.com/cristoper/mormon_anarchism/issues[issue] or fork this repository and submit a pull request with your proposed changes. Thank you!
